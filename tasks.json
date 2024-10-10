@@ -1,0 +1,67 @@
+{
+  "data": {
+    "success": true,
+    "data":[
+      {
+        "id": 1,
+        "title": "Mi titulo febrero",
+        "description": "Descripcion de febrero alguna tarea",
+        "expires": "2024-02-02",
+        "image": null,
+        "status": "PENDIENTE",
+        "tags": "loco,febrero",
+        "user_id": 7,
+        "created_at": "2024-10-08T02:34:06.000000Z",
+        "updated_at": "2024-10-08T02:37:32.000000Z"
+      },
+      {
+        "id": 2,
+        "title": "Vence hoy",
+        "description": "Test que cambia nuevamente",
+        "expires": "2024-10-08",
+        "image": null,
+        "status": "PENDIENTE",
+        "tags": "task,nuevo",
+        "user_id": 7,
+        "created_at": "2024-10-06T04:20:45.000000Z",
+        "updated_at": "2024-10-06T04:27:10.000000Z"
+      },
+      {
+        "id": 3,
+        "title": "Mi nueva",
+        "description": "Descripcion para hacer una tarea",
+        "expires": "2024-10-16",
+        "image": null,
+        "status": "HECHO",
+        "tags": "halloween",
+        "user_id": 7,
+        "created_at": "2024-10-03T05:11:59.000000Z",
+        "updated_at": "2024-10-08T02:30:12.000000Z"
+      },
+      {
+        "id": 4,
+        "title": "Compras",
+        "description": "Hacerme unas compras",
+        "expires": "2024-10-26",
+        "image": null,
+        "status": "PENDIENTE",
+        "tags": "compras,shop",
+        "user_id": 7,
+        "created_at": "2024-10-03T04:50:49.000000Z",
+        "updated_at": "2024-10-04T04:03:41.000000Z"
+      },
+      {
+        "id": 5,
+        "title": "Nueva tarea",
+        "description": "compras al super de nuevo para el mes sin expiracion",
+        "expires": null,
+        "image": null,
+        "status": "HECHO",
+        "tags": "pepe,super,compras",
+        "user_id": 7,
+        "created_at": "2024-10-03T04:40:06.000000Z",
+        "updated_at": "2024-10-04T03:14:11.000000Z"
+      }
+    ]
+  }
+}
